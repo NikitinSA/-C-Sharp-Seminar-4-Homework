@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Савелий\\.nuget\\packages\\": {}
+    "C:\\Users\\Savka\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Савелий\\Desktop\\Программирование\\ДЗ семинар 4\\Task 1\\Task 1.csproj",
+      "projectUniqueName": "D:\\Geek Brains\\C#\\ДЗ семинар 4\\C-Sharp-Seminar-4-Homework\\Task 1\\Task 1.csproj",
       "projectName": "Task 1",
-      "projectPath": "C:\\Users\\Савелий\\Desktop\\Программирование\\ДЗ семинар 4\\Task 1\\Task 1.csproj",
-      "packagesPath": "C:\\Users\\Савелий\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Савелий\\Desktop\\Программирование\\ДЗ семинар 4\\Task 1\\obj\\",
+      "projectPath": "D:\\Geek Brains\\C#\\ДЗ семинар 4\\C-Sharp-Seminar-4-Homework\\Task 1\\Task 1.csproj",
+      "packagesPath": "C:\\Users\\Savka\\.nuget\\packages\\",
+      "outputPath": "D:\\Geek Brains\\C#\\ДЗ семинар 4\\C-Sharp-Seminar-4-Homework\\Task 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Савелий\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Savka\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
